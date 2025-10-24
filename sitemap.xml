@@ -1,3 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>Nonechapter_01.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_01.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_01.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_02.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_02.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_02.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_03.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_03.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_03.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_04.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_04.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_04.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_05.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_05.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_05.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_06.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_06.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_06.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_07.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_07.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_07.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_08.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_08.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_08.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_09.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_09.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_09.html"/>
+    </url>
+    <url>
+        <loc>Nonechapter_10.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_10.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_10.html"/>
+    </url>
+    <url>
+        <loc>Noneindex.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="hu" href="Noneindex.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_01.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_01.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_01.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_02.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_02.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_02.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_03.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_03.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_03.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_04.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_04.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_04.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_05.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_05.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_05.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_06.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_06.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_06.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_07.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_07.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_07.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_08.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_08.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_08.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_09.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_09.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_09.html"/>
+    </url>
+    <url>
+        <loc>Noneen/chapter_10.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/chapter_10.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Nonechapter_10.html"/>
+    </url>
+    <url>
+        <loc>Noneen/index.html</loc>
+        <lastmod>2025-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.html"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="Noneindex.html"/>
+    </url>
 </urlset>
